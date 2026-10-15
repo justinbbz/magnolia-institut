@@ -1,0 +1,19 @@
+{
+  "_lisez-moi": "Extraits d'avis réels de clientes (Google, Facebook), relevés le 14/10/2026. Seules retouches : emojis retirés, fautes de frappe et d'accents corrigés, extrait raccourci en fin de phrase si besoin ; aucun avis négatif n'est repris. Prénom + initiale seulement. Injecté dans index.html par scripts/generer-pages.mjs.",
+  "google": { "note": "5,0", "nombre": 15 },
+  "facebook": { "pourcent": 100, "nombre": 17 },
+  "avis": [
+    { "texte": "J'ai effectué un massage d'une heure à l'institut, c'était juste incroyable : Magnolia a des mains de fée et ça m'a fait un bien énorme. Je recommande à 200 %. Très professionnelle et à l'écoute de ses patientes, moment super agréable !", "auteur": "Eva V.", "source": "Google" },
+    { "texte": "Depuis que j'ai découvert l'institut de Magnolia, j'y retourne les yeux fermés : l'accueil est très chaleureux, Magnolia a une grande sensibilité et le massage intuitif d'1 h 30 fait un bien fou.", "auteur": "Lauranne P.", "source": "Google" },
+    { "texte": "Plus qu'un soin du visage, un super moment de détente et de relaxation. Magnolia est une esthéticienne au top ! Douce, gentille et souriante, je recommande vivement !", "auteur": "Christal", "source": "Google" },
+    { "texte": "Un grand merci à Magnolia pour son intuition, sa capacité d'adaptation à mes besoins et la qualité de ses soins. J'ai vraiment passé un très bon moment.", "auteur": "Annie P.", "source": "Google" },
+    { "texte": "Magnolia est très professionnelle ! Une esthéticienne avec beaucoup de savoir-faire. Je recommande.", "auteur": "Léa C.", "source": "Google" },
+    { "texte": "Je recommande 1 h 30 de lâcher prise, et beaucoup d'émotions après le massage, sans que je parle de quoi que ce soit : Magnolia a repéré mon stress, cette femme a un don.", "auteur": "Nadine R.", "source": "Facebook" },
+    { "texte": "Un accueil très agréable et un soin personnalisé exceptionnel. Merci pour ce grand moment de détente : un soin « Densi'âge » qui m'a détendu les traits, et ça fait un bien fou !", "auteur": "Sand S.", "source": "Facebook" },
+    { "texte": "Super moment détente ! Accueil parfait, soins très doux et délicats, pas de précipitation pour le déshabillage ou le rhabillage. Je recommande sans hésiter.", "auteur": "Maeva C.", "source": "Facebook" },
+    { "texte": "Toujours un plaisir de venir dans cet institut, très professionnelle et souriante ! Je recommande.", "auteur": "Ophélie B.", "source": "Facebook" },
+    { "texte": "Je recommande pour ses soins et massages très doux, une vraie professionnelle et très sympathique. Les produits sont super aussi.", "auteur": "Monique L.", "source": "Facebook" },
+    { "texte": "Très sympathique, toujours le sourire, très bonne conseillère, et des tarifs plus que raisonnables.", "auteur": "Nicole R.", "source": "Facebook" },
+    { "texte": "Magnolia est agréable, disponible et très professionnelle. Je la recommande.", "auteur": "Pauline R.", "source": "Facebook" }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "nom": "Magnolia institut",
+  "slogan": "Massage & esthétique",
+  "esthéticienne": "Magnolia",
+  "telephone": "06 09 87 53 41",
+  "telephoneInternational": "+33609875341",
+  "email": "magnolia.institut@gmail.com",
+  "adresse": {
+    "rue": "",
+    "lieuDit": "",
+    "codePostal": "04180",
+    "ville": "Villeneuve",
+    "pays": "FR",
+    "_note": "La rue n'est volontairement pas publiée : l'institut donne son adresse « sur demande en privé » (affiche de déménagement du 24/12/2025). Elle est envoyée dans l'e-mail de confirmation et le rendez-vous Google Agenda grâce à la variable ADRESSE_PRIVEE (voir BRANCHEMENT.md)."
+  },
+  "fuseau": "Europe/Paris",
+  "horaires": {
+    "lundi": [["08:45", "16:30"]],
+    "mardi": [["08:45", "16:30"]],
+    "mercredi": [["09:00", "12:00"]],
+    "jeudi": [["08:45", "16:30"]],
+    "vendredi": [["08:45", "16:30"]],
+    "samedi": [["08:00", "12:30"]],
+    "dimanche": []
+  },
+  "fermetures": [
+    "2026-11-01", "2026-11-11", "2026-12-25",
+    "2027-01-01", "2027-03-29", "2027-05-01", "2027-05-06", "2027-05-08", "2027-05-17", "2027-07-14", "2027-08-15", "2027-11-01", "2027-11-11", "2027-12-25",
+    "2028-01-01", "2028-04-17", "2028-05-01", "2028-05-08", "2028-05-25", "2028-06-05", "2028-07-14", "2028-08-15", "2028-11-01", "2028-11-11", "2028-12-25"
+  ],
+  "reservation": {
+    "pasCreneauMinutes": 15,
+    "delaiMinimumHeures": 12,
+    "horizonJours": 60,
+    "dureeMaxMinutes": 240,
+    "maxPrestations": 6,
+    "paiements": ["acompte", "total"],
+    "acomptePourcent": 30,
+    "acompteMinimumEuros": 10,
+    "paiementSurPlaceJusquaEuros": 0,
+    "retenueMinutes": 31,
+    "annulationHeures": 24
+  },
+  "liens": {
+    "avisGoogle": "https://www.google.com/maps/place/Magnolia+institut/@43.9575508,5.7793382,17z/data=!4m8!3m7!1s0x12cbb52258221f5d:0x844fd925c4720ec9!8m2!3d43.9575272!4d5.7792374!9m1!1b1!16s%2Fg%2F11h4w1zd72",
+    "instagram": "https://www.instagram.com/magnolia.institut/",
+    "facebook": "https://www.facebook.com/magnolia04/"
+  }
+}

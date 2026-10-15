@@ -1,0 +1,314 @@
+{
+ "source": "facebook",
+ "releve": "2026-10-14",
+ "note": "Généré par scripts/generer-catalogue.mjs depuis _sources/facebook/tarifs.json (tarifs lus sur les visuels Facebook de l'institut, 2022-2024). Ne pas modifier à la main.",
+ "familles": [
+  {
+   "id": "massages",
+   "nom": "Massages",
+   "intro": "Chaque massage se construit avec vous, selon vos besoins et vos envies du moment.",
+   "categories": [
+    {
+     "id": "massages-massages",
+     "titre": "Massages",
+     "services": [
+      {
+       "id": "massage-intuitif-1h",
+       "nom": "Massage intuitif",
+       "duree": 60,
+       "prix": 60,
+       "description": "Un massage entièrement personnalisé selon vos besoins et vos envies du moment, physiques comme émotionnels : une expérience unique entre la masseuse et la personne massée."
+      },
+      {
+       "id": "massage-intuitif-1h30",
+       "nom": "Massage intuitif",
+       "duree": 90,
+       "prix": 75,
+       "description": "Le même massage sur mesure, avec plus de temps pour lâcher prise."
+      },
+      {
+       "id": "massage-egyptien",
+       "nom": "Massage égyptien",
+       "duree": 75,
+       "prix": 65
+      },
+      {
+       "id": "massage-5-continents",
+       "nom": "Massage des 5 continents",
+       "duree": 70,
+       "prix": 85,
+       "description": "Le regroupement des meilleures techniques du monde, pour un équilibrage énergétique global et une reconnexion à votre énergie vitale."
+      },
+      {
+       "id": "massage-dos",
+       "nom": "Massage du dos",
+       "duree": 105,
+       "prix": 75
+      },
+      {
+       "id": "massage-zone",
+       "nom": "Massage d'une zone au choix",
+       "duree": 30,
+       "prix": 40,
+       "description": "Pour une zone précise qui a besoin d'attention."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "visage",
+   "nom": "Soins du visage",
+   "intro": "Des soins Matis Paris, choisis selon votre peau et votre temps.",
+   "categories": [
+    {
+     "id": "visage-express",
+     "titre": "Solutions flash",
+     "intro": "Un soin express de 30 minutes, à choisir selon l'envie du moment.",
+     "services": [
+      {
+       "id": "flash-purete",
+       "nom": "Solution flash",
+       "detail": "Pureté",
+       "duree": 30,
+       "prix": 45,
+       "description": "Soin perfectionneur express pour matifier la peau."
+      },
+      {
+       "id": "flash-eclat",
+       "nom": "Solution flash",
+       "detail": "Éclat",
+       "duree": 30,
+       "prix": 45,
+       "description": "Soin éclat express pour les peaux ternes et fatiguées."
+      },
+      {
+       "id": "flash-densite",
+       "nom": "Solution flash",
+       "detail": "Densité",
+       "duree": 30,
+       "prix": 45
+      }
+     ]
+    },
+    {
+     "id": "visage-beaute",
+     "titre": "Solutions beauté",
+     "intro": "Une heure pour prendre soin de votre peau.",
+     "services": [
+      {
+       "id": "beaute-fondamentale",
+       "nom": "Solution beauté",
+       "detail": "Fondamentale",
+       "duree": 60,
+       "prix": 75
+      },
+      {
+       "id": "beaute-eclat",
+       "nom": "Solution beauté",
+       "detail": "Éclat",
+       "duree": 60,
+       "prix": 75
+      }
+     ]
+    },
+    {
+     "id": "visage-anti-age",
+     "titre": "Solutions anti-âge",
+     "services": [
+      {
+       "id": "corrective-plump",
+       "nom": "Corrective plump",
+       "duree": 70,
+       "prix": 90
+      },
+      {
+       "id": "densi-age-expert",
+       "nom": "Densi'âge expert",
+       "duree": 70,
+       "prix": 90
+      },
+      {
+       "id": "experience-caviar",
+       "nom": "Expérience caviar",
+       "duree": 80,
+       "prix": 120
+      },
+      {
+       "id": "cell-expert",
+       "nom": "Solution signature Cell Expert",
+       "duree": 75,
+       "prix": 90,
+       "description": "Le soin signature Matis, autour du sérum Cell-Expert, pensé pour protéger le capital jeunesse de la peau."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "epilations",
+   "nom": "Épilations",
+   "intro": "Une peau douce, en toute simplicité.",
+   "categories": [
+    {
+     "id": "epilations-zone",
+     "titre": "À la zone",
+     "services": [
+      {
+       "id": "epil-sourcils",
+       "nom": "Sourcils",
+       "duree": 10,
+       "dureeEstimee": true,
+       "prix": 7
+      },
+      {
+       "id": "epil-levres",
+       "nom": "Lèvres",
+       "duree": 10,
+       "dureeEstimee": true,
+       "prix": 7
+      },
+      {
+       "id": "epil-menton",
+       "nom": "Menton",
+       "duree": 10,
+       "dureeEstimee": true,
+       "prix": 7
+      },
+      {
+       "id": "epil-aisselles",
+       "nom": "Aisselles",
+       "duree": 15,
+       "dureeEstimee": true,
+       "prix": 8
+      },
+      {
+       "id": "epil-demi-bras",
+       "nom": "Demi-bras",
+       "duree": 15,
+       "dureeEstimee": true,
+       "prix": 10
+      },
+      {
+       "id": "epil-trois-quarts-bras",
+       "nom": "Bras ¾",
+       "duree": 20,
+       "dureeEstimee": true,
+       "prix": 15
+      },
+      {
+       "id": "epil-demi-jambes",
+       "nom": "Demi-jambes",
+       "duree": 20,
+       "dureeEstimee": true,
+       "prix": 15
+      },
+      {
+       "id": "epil-cuisses",
+       "nom": "Cuisses",
+       "duree": 20,
+       "dureeEstimee": true,
+       "prix": 15
+      },
+      {
+       "id": "epil-jambes-entieres",
+       "nom": "Jambes entières",
+       "duree": 30,
+       "dureeEstimee": true,
+       "prix": 22
+      },
+      {
+       "id": "epil-maillot-simple",
+       "nom": "Maillot simple",
+       "duree": 15,
+       "dureeEstimee": true,
+       "prix": 13
+      },
+      {
+       "id": "epil-maillot-echancre",
+       "nom": "Maillot échancré",
+       "duree": 20,
+       "dureeEstimee": true,
+       "prix": 16
+      },
+      {
+       "id": "epil-maillot-integral",
+       "nom": "Maillot intégral",
+       "duree": 25,
+       "dureeEstimee": true,
+       "prix": 23
+      }
+     ]
+    },
+    {
+     "id": "epilations-forfaits",
+     "titre": "Forfaits",
+     "services": [
+      {
+       "id": "forfait-sourcils-levres",
+       "nom": "Sourcils + lèvres",
+       "duree": 15,
+       "dureeEstimee": true,
+       "prix": 12
+      },
+      {
+       "id": "forfait-sourcils-aisselles",
+       "nom": "Sourcils + aisselles",
+       "duree": 20,
+       "dureeEstimee": true,
+       "prix": 12
+      },
+      {
+       "id": "forfait-sourcils-levres-aisselles",
+       "nom": "Sourcils + lèvres + aisselles",
+       "duree": 25,
+       "dureeEstimee": true,
+       "prix": 17
+      },
+      {
+       "id": "forfait-visage",
+       "nom": "Visage",
+       "duree": 25,
+       "dureeEstimee": true,
+       "prix": 17
+      },
+      {
+       "id": "forfait-jambes-maillot",
+       "nom": "Jambes entières + maillot intégral",
+       "duree": 50,
+       "dureeEstimee": true,
+       "prix": 35
+      }
+     ]
+    },
+    {
+     "id": "epilations-hommes",
+     "titre": "Pour les hommes",
+     "services": [
+      {
+       "id": "hommes-dos",
+       "nom": "Dos",
+       "duree": 30,
+       "dureeEstimee": true,
+       "prix": 20
+      },
+      {
+       "id": "hommes-torse",
+       "nom": "Torse",
+       "duree": 30,
+       "dureeEstimee": true,
+       "prix": 20
+      },
+      {
+       "id": "hommes-aisselles",
+       "nom": "Aisselles",
+       "duree": 15,
+       "dureeEstimee": true,
+       "prix": 10
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
