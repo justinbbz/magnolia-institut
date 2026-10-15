@@ -1,0 +1,4 @@
+# DÉMO : le site ne doit pas être indexé tant qu'il n'est pas validé par Magnolia.
+# À la mise en ligne : remplacer par « Allow: / » et ajouter la ligne Sitemap.
+User-agent: *
+Disallow: /
